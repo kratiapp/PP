@@ -51,8 +51,9 @@
 - 정보처리 기사
 
 # Projects
-### Villains (https://www.birdletter.com/mechanival)
+### Villains (https://villainsrobotbr.onelink.me/xRd8/villains)
 - 포켓게이머(영국) 선정 소프트 런칭 중인 글로벌 탑 50게임 중 3위(https://www.etnews.com/20210219000035)
+- 인벤 기사 (https://www.inven.co.kr/webzine/news/?news=290161)
 
 #### 개발
 - Photon Quantum 기반의 클라이언트 개발
@@ -60,29 +61,32 @@
 - 전체적인 코드 구조 설계
 - UI 팝업 및 화면 양산을 위한 시스템 설계
 - 캐릭터 및 스킬 양산을 위한 시스템 설계
+- 각종 개발 편의를 위한 시스템 개발
 - 캐릭터 시스템 개발
 - 아이템 시스템 개발
 - 프로젝타일 시스템 개발
 - 치트 시스템 개발
 - AI 시스템 개발
+- 사운드 시스템 개발
 - 다수의 캐릭터 스킬 개발
 - 게임 테스트 편의를 위한 시스템 개발
-- 이펙트 테스트 편의를 위한 시스템 개발
+- 이펙트, 애니메이션 테스트 편의를 위한 시스템 개발
 - 맵 오브젝트 배치 편의를 위한 시스템 개발
+- ScriptableObject를 사용하여 기획, 아트 파트에서 수치 조절이 가능하도록 개발
+- Hive, Facebook, Firebase 등의 다수의 SDK 적용
 - Google / Apple 로그인 개발
-- ScriptableObject를 사용한 연출 부분 테스트 시스템 개발
 - Jenkins 사용한 빌드 환경 개발
 - PacketMonitor 제작
 
 #### 기획
 - 전체 테이블 구조 설계
-- 캐릭터 스킬 및 밸런스
+- 캐릭터 스킬 및 밸런스 기획
 - 맵 구역 및 요소 기획
 
 #### 기타
 - 지원사업 및 퍼블리셔 계약을 위한 소프트 런칭 단기 작업
 - 개발팀 일정 관리
-- PullRequest를 이용한 개발팀 코드 컨펌
+- BTS 담당자 지정 (모든 파트)
 - 신규 기획 전체적인 검토
 
 ![](img/villains_battle.PNG)
