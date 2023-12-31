@@ -130,7 +130,7 @@
 ![](img/bss_01.png)
 ![](img/bss_02.png)
 
-### Match3D : Life is Pair (https://play.google.com/store/apps/details?id=com.birdletter.match3d&hl=ko&gl=US)
+### Match3D : Life is Pair (https://apps.apple.com/no/app/match-3d-life-is-pair/id1554432391)
 
 #### 개발
 - Spine 활용한 캐릭터 애니메이션
