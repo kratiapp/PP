@@ -149,8 +149,8 @@
 ![](/img/tool_console.png)
 
 ### ETC Projects (https://github.com/kratiapp/PP/blob/main/ETC_Projects.pdf)
+#### 기타 프로젝트에 대한 설명은 위 링크를 참조해주세요
 
-#### 위 링크를 참조해주세요
 
 # Work Experience
 
