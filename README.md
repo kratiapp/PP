@@ -77,6 +77,7 @@
 - Google / Apple 로그인 개발
 - Jenkins 사용한 빌드 환경 개발
 - PacketMonitor 제작
+- Shader Graph 기반 셰이더 제작
 
 #### 기획
 - 전체 테이블 구조 설계
@@ -996,6 +997,15 @@ public class BoxFigure : FigureBase
 ![](figure_creator_2.png)
 
 ![](figure_creator_3.png)
+
+## Shader Graph 작업
+
+![](toon_shader_1.png)
+
+![](toon_shader_2.png)
+
+아트팀의 요청에 따라서 Directional Light의 효과를 수치값으로 줄 수 있는 (한 객체안에서도 그림자의 방향을 조금씩 다르게 하고싶은 니즈)
+툰 기반의 쉐이더 제작
 
 ## 문서화
 각종 가이드, 이슈 대응방법 및 히스토리 관리를 용이하게 하기 위한 꾸준한 문서 작성
