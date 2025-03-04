@@ -97,19 +97,6 @@
 ![](img/villains_battle.PNG)
 ![](img/villains_end.PNG)
 
-### ProjectAB (Auto Battle Proto Type)
-- 신규 개발 진행중인 오토배틀러 장르 게임
-
-#### 개발
-- UI 작업
-- 데이터 처리 파이프라인 설계
-- 프로젝트 기반 베이스 설계
-- 전투 시스템 개발
-- 영상 촬영을 위한 카메라 컨트롤러 기능 추가
-  
-![](img/villains_ab_1.PNG)
-![](img/villains_ab_2.PNG)
-
 ### Mad For Dance (https://www.birdletter.com/mad-for-dancce)
 - 2019년 Google 창구 프로그램 오디션 1위 (http://www.inven.co.kr/webzine/news/?news=227414)
 
@@ -165,6 +152,19 @@
 
 ![](img/kof_01.jpg)
 ![](/img/tool_console.png)
+
+### ProjectAB (Auto Battle Proto Type)
+- 신규 개발 진행중인 오토배틀러 장르 게임
+
+#### 개발
+- UI 작업
+- 데이터 처리 파이프라인 설계
+- 프로젝트 기반 베이스 설계
+- 전투 시스템 개발
+- 영상 촬영을 위한 카메라 컨트롤러 기능 추가
+  
+![](img/villains_ab_1.PNG)
+![](img/villains_ab_2.PNG)
 
 ### ETC Projects (https://github.com/kratiapp/PP/blob/main/ETC_Projects.pdf)
 #### 기타 프로젝트에 대한 설명은 위 링크를 참조해주세요
